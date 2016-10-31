@@ -1,2 +1,3 @@
 # Simle-Restful-App-
-Simle Restful App by Python 
+
+python 3 and making Simple Restful API with flask 
